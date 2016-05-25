@@ -1,0 +1,4 @@
+[Eureka]
+ServiceUrls = http://host2:8761/eureka
+ServiceUrls = http://host1:8761/eureka
+ConnectTimeoutSeconds = 5
